@@ -1,4 +1,6 @@
-# ojekonline
+# OjekOnline Flutter
+
+## Author : Herry Prasetyo
 
 A new Flutter application.
 
